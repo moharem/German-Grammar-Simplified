@@ -1,0 +1,13 @@
+node_modules/
+dist/
+output/
+.playwright-cli/
+.DS_Store
+*.tsbuildinfo
+.agents/
+.codex/
+skills-lock.json
+.env
+.env.*
+!.env.example
+*.log
